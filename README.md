@@ -35,4 +35,4 @@ M.S. in Autonomy student at Purdue University (2026–2028), background in embed
 |---|---|
 | [Portfolio](https://olibreki.github.io/olafur-portfolio/) | Personal portfolio site ([source](https://github.com/Olibreki/olafur-portfolio)) |
 | Embedded Facial-Recognition Alarm | Real-time face-recognition alarm on Raspberry Pi - fine-tuned ONNX face-embedding model, C inference service, Telegram alerting |
-| NFL Prediction Model | Production ML pipeline over 17 seasons, 149 engineered features, market-residual architecture |
+| NFL Prediction Model (private) | Production ML pipeline over 17 seasons, 149 engineered features, market-residual architecture |
