@@ -6,7 +6,7 @@ M.S. in Autonomy student at Purdue University (2026–2028), background in embed
 - Also running a production NFL prediction pipeline (Selenium to PostgreSQL to LightGBM) that matches closing-line market accuracy
 - M.S. in Autonomy at Purdue, B.Sc. Electrical & Computer Engineering at University of Iceland (GPA 3.87/4.0)
 - Digital Development Specialist at ON Power - built automated forecasting pipelines and Power BI/Copilot tooling
-- Portfolio: https://olibreki.github.io/olafur-portfolio/
+- Portfolio: https://olibreki.github.io/
 - LinkedIn: https://www.linkedin.com/in/olafur-breki-gudnason-5899b3318
 
 ## Stack
@@ -25,7 +25,7 @@ M.S. in Autonomy student at Purdue University (2026–2028), background in embed
 
 ## Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-16181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://olibreki.github.io/olafur-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://olibreki.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olafur-breki-gudnason-5899b3318)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olafurbrekigudnason@gmail.com)
 
@@ -33,7 +33,7 @@ M.S. in Autonomy student at Purdue University (2026–2028), background in embed
 
 | Project | Description |
 |---|---|
-| [Portfolio](https://olibreki.github.io/olafur-portfolio/) | Personal portfolio site ([source](https://github.com/Olibreki/olafur-portfolio)) |
+| [Portfolio](https://olibreki.github.io/) | Personal portfolio site ([source](https://github.com/Olibreki/Olibreki.github.io)) |
 | [Embedded Facial-Recognition Alarm](https://github.com/Olibreki/face-recognition-alarm) | Real-time face-recognition alarm on Raspberry Pi - fine-tuned ONNX face-embedding model, C inference service, Telegram alerting |
 | NFL Prediction Model (private) | Production ML pipeline over 17 seasons, 149 engineered features, market-residual architecture |
 
